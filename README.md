@@ -1,2 +1,5 @@
-# yarn_run_practice01
-yarn run practice 01
+# yarn run practice 01
+- build SCSS
+
+## build
+`yarn scss`
