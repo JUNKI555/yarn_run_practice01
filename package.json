@@ -1,0 +1,11 @@
+{
+  "name": "yarn_run_practice01",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:JUNKI555/yarn_run_practice01.git",
+  "author": "JUNKI555 <junki555@gmail.com>",
+  "license": "WTFPL License",
+  "devDependencies": {
+    "sass": "^1.29.0"
+  }
+}
